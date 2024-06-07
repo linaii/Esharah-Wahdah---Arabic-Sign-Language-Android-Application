@@ -5,3 +5,7 @@ The Sign Language Translator Android app uses cutting-edge technology to enhance
 
 
 # Demo:
+
+
+https://github.com/linaii/Esharah-Wahdah---Arabic-Sign-Language-Android-Application/assets/104179292/31ca2c3e-410b-4810-ac33-a5510aed5cd1
+
